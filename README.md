@@ -32,3 +32,10 @@ Blup Assignment
 
 3. Use Guilding Lines to align toggled text widget with other text widget.
 
+
+## Note
+
+Download Demo apk from (here)[https://github.com/Alabhya268/blup_assignment/raw/main/app-release.apk].
+
+
+
