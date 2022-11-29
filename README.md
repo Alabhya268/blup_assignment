@@ -35,7 +35,7 @@ Blup Assignment
 
 ## Note
 
-Download Demo apk from (here)[https://github.com/Alabhya268/blup_assignment/raw/main/app-release.apk].
+Download Demo apk from [here](https://github.com/Alabhya268/blup_assignment/raw/main/app-release.apk).
 
 
 
