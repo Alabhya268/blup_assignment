@@ -11,7 +11,7 @@ Blup Assignment
 ```$ flutter upgrade```
 
 
-``` $ cd cred_assignment```
+``` $ cd blup_assignment```
 
 
 ``` $ flutter clean ```
